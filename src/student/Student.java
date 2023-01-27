@@ -6,6 +6,8 @@ package student;
 
 /**
  *
+ * 
+ * 
  * @author cody
  */
 public class Student {
